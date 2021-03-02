@@ -465,7 +465,7 @@ paths:
         - Common
   /sendMessage:
     post:
-      summary: 'Отправка сообщения'
+      summary: 'ОТКАЗАЛИСЬ! Решили завязать витрину и битрикс'
       operationId: postSendMessage
       description: 'Отправка сообщения'
       consumes:
